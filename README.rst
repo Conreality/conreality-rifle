@@ -52,3 +52,23 @@ Bill of Materials
      - 3002
      - $0.50
      - 1
+
+----
+
+Hardware Specifications
+=======================
+
+Features
+--------
+
+- 3.3 V Nordic Semiconductor `nRF52832 <https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52832>`__ SoC
+- 64 MHz 32-bit ARM `Cortex-M4F <https://en.wikipedia.org/wiki/ARM_Cortex-M#Cortex-M4>`__ CPU with FPU
+- 64 KiB SRAM, 512 KiB flash
+- 2.4 GHz transceiver with Bluetooth LE support
+
+----
+
+Firmware Requirements
+=====================
+
+TODO
