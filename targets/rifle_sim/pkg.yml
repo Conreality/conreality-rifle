@@ -1,0 +1,6 @@
+### Package: targets/rifle_sim
+pkg.name: targets/rifle_sim
+pkg.type: target
+pkg.description: TODO
+pkg.author: Conreality.org <info@conreality.org>
+pkg.homepage: https://github.com/conreality/conreality-rifle

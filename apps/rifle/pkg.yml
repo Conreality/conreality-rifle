@@ -1,0 +1,11 @@
+pkg.name: apps/rifle
+pkg.type: app
+pkg.description: TODO
+pkg.author: Conreality.org <info@conreality.org>
+pkg.homepage: https://github.com/conreality/conreality-rifle
+pkg.keywords:
+
+pkg.deps:
+  - "@apache-mynewt-core/kernel/os"
+  - "@apache-mynewt-core/hw/hal"
+  - "@apache-mynewt-core/sys/console/stub"

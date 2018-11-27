@@ -6,3 +6,15 @@
 
 # rst2html outputs
 *.html
+
+# Mynewt rules
+.app.db
+.app
+bin
+obj
+tags
+.gdb_history
+.gdb_out
+.gdb_cmds
+*.swp
+*.swo

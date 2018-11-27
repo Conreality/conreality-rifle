@@ -1,0 +1,4 @@
+### Target: targets/rifle_sim
+target.app: apps/rifle
+target.bsp: "@apache-mynewt-core/hw/bsp/native"
+target.build_profile: debug
